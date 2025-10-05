@@ -14,7 +14,7 @@ It helps users calculate their BMI based on age, weight, and height while provid
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bmi-calculator.git
+git clone https://github.com/Deyasin-Srijon/bmi-calculator.git
 cd bmi-calculator
 ```
 
